@@ -1,0 +1,2 @@
+{'brand': 'Panerai', 'ref': 'pam 078', 'start_price': '1500', 'step': '50', 'status': 'begins'}
+{'brand': 'Rolex  ', 'ref': '116200', 'start_price': '3000', 'step': '100', 'status': 'trades'}
